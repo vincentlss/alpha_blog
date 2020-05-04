@@ -1,3 +1,3 @@
 # README
 
-Alpha-blog! Deployed at: https://enigmatic-badlands-40462.herokuapp.com
+Vincent Blog! Deployed at: https://vincentlss-blog.herokuapp.com/
